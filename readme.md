@@ -7,7 +7,7 @@ Install Python 3, then type:
 then type:
 `python -m http.server 8000`
 You can choose a different port number if you like.
-Then visit localhost:(portnumber) in your web browser.
+Then visit `localhost:[portnumber]` in your web browser.
 (Node.js isn't as user-friendly)
 
 If you want to deploy it like I did in Netlify, do this:
