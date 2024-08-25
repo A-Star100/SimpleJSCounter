@@ -3,7 +3,7 @@ This is my very first JavaScript project (That was used for a website). Since I 
 
 If you want to test the source code using a server going live (with Python installed), do this:
 
-Install Python 3, then type:
+[Install Python 3](https://www.python.org/downloads/), then type:
 `cd (file path here for downloaded source code)`
 
 then type:
