@@ -10,10 +10,6 @@ You can choose a different port number if you like.
 Then visit `localhost:[portnumber]` in your web browser.
 (Node.js isn't as user-friendly)
 
-If you want to deploy it like I did in Netlify, do this:
-1. Visit netlify.com and create an account if you haven't.
-2. Drag-and-drop the source code into the "Deploy manually" box. (Using GitHub may result in some issues)
-3. Change the site to your preferences.
 __________________________________________________________________________________________________________
 Bye!
  
